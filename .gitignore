@@ -1,0 +1,10 @@
+target/
+*.class
+*.jar
+*.war
+.settings/
+.classpath
+.project
+shopkart_db*
+.idea/
+*.iml
